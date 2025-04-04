@@ -4,9 +4,7 @@ This repository walks through the foundamental technologies and techniques behin
 
 ## RAG: Retrieval Augmented Generation
 
-1. RAG_app_LangChain.ipynb: step-by-step guide on how to build a document Q&A application using a RAG pipeline. 
-
-It will be used:
+1. RAG_app_LangChain.ipynb: step-by-step guide on how to build a document Q&A application using a RAG pipeline. It will be used:
     * Gemini AI models for embedding and generating answers
     * ChromaDB as the vector database
     * LangChain for managing the retrieval process
